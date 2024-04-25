@@ -1,4 +1,4 @@
-# Admin Dashboard (Django & Reactjs)
+# User management System (Django)
 
 Developed a user management system focusing on precise user permissions: create, delete posts, and ban users.
 
